@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Asfalis ασφαλής</string>
+    <string name="welcome">Welcome to Asfalis</string>
+    <string name="password">Password</string>
+    <string name="login_name">Username or Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="qr_scanner">QR Code Scanner</string>
+    <string name="logged_in">Logged in successful</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_title">Exit Asfalí̱s app</string>
+    <string name="exit_message">Are you really want to exit?</string>
+    <string name="bio_not_registered">There is no fingerprint registered in this device</string>
+    <string name="bio_invalid">You have input an invalid fingerprint</string>
+    <string name="bio_title">Biometric Authentication</string>
+    <string name="bio_subtitle">Sign in using your fingerprint as credentials</string>
+    <string name="first_time">Biometric is not available for first time login</string>
+    <string name="camera_granted">Camera permission granted</string>
+    <string name="camera_denied">Camera permission denied</string>
+</resources>
